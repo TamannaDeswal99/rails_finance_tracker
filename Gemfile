@@ -62,4 +62,5 @@ end
 
 gem "devise", "~> 4.9"
 gem 'jquery-rails'
-
+gem 'sassc-rails'
+gem 'devise-bootstrap-views', '~> 1.0'
